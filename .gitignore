@@ -1,0 +1,10 @@
+data/
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+qa.png
+qa_test.cjs
